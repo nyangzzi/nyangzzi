@@ -1,16 +1,20 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**eklee0421/eklee0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?section=header&type=venom&color=0:DFD5F1,100:F9AEAC&stroke=b678c4&height=160&text=Welcome+to+nyangzzi's+github💖&fontColor=1F1F1F&fontSize=40)
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyangzzi&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
+![img](https://github.com/nyangzzi/nyangzzi/assets/52737339/0091772b-f271-4fce-90c6-33ae08762b5b)
+
+<br/>
+<br/>
+
+[![nyangzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangzzi&include_all_commits=true&show_icons=true&theme=ambient_gradient)](https://github.com/bi-sz/github-readme-stats)
+
+</div>
