@@ -9,14 +9,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyangzzi&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--<div style="display:flex; flex-direction:row;">
-  <a href="https://github.com/nyangzzi"><img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"> 
-  </a>
-  &nbsp
-  <a href="mailto:eklee98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white"> 
-  </a>
-</div>
 
-<br/> -->
+  <a href="https://github.com/nyangzzi"><img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"></a>
+  <a href="https://dev-zzilog.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?&logo=tistory&logoColor=white"></a>
+  <a href="mailto:eklee98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white"></a>
+  
+</div>-->
+
+<br/>
 
 ![img](https://github.com/nyangzzi/nyangzzi/assets/52737339/0091772b-f271-4fce-90c6-33ae08762b5b)
 
