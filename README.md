@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?section=header&type=venom&color=0:DFD5F1,100:F9AEAC&stroke=b678c4&height=160&text=Welcome+to+nyangzzi's+github💖&fontColor=1F1F1F&fontSize=40)
+![header](https://capsule-render.vercel.app/api?section=header&type=venom&color=0:DFD5F1,100:F9AEAC&stroke=b678c4&height=160&text=LEE+ENUKYUNG&fontColor=222222&fontSize=50&desc=Android%20Application%20Engineer&descAlignY=30&fontAlignY=60&strokeWidth=1.5)
 
 ##
 
