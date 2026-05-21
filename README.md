@@ -6,20 +6,15 @@
 
 <br/>
 
-```kotlin
-val today = yesterday + 1
-
-while (developing) {
-    learn()
-    improve()
-    designBetterExperience()
-}
-```
-
 <img src="https://img.shields.io/badge/ROLE-ANDROID_DEVELOPER-bde0fe?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/FOCUS-UI_%26_INTERACTION-ffc8dd?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/BUILD-CLEAN_ARCHITECTURE-cdb4db?style=for-the-badge&logoColor=white"/>
 
+<br/><br/>
+
+<span>𓂂 𓈒𓏸 ˗ˋˏ♡ˎˊ˗ 𓈒𓏸 𓂂𓈒</span>
+
+<img width="520" height="288" alt="happy_life kt" src="https://github.com/user-attachments/assets/ab2b5e92-92e3-4fc4-9d89-a59feca1441d" />
 </div>
 
 ---
