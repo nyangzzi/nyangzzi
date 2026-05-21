@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnyangzzi&count_bg=%23FDC8F8&title_bg=%23F54D4D96&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!--<div style="display:flex; flex-direction:row;">
 
   <a href="https://github.com/nyangzzi"><img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"></a>
@@ -45,8 +43,6 @@
 
 <br/>
 <br/>
-
-[![nyangzzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangzzi&include_all_commits=true&show_icons=true&count_private=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyangzzi&layout=compact)-->
 
