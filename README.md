@@ -166,17 +166,10 @@ goal:
 
 ## 🌸 LINKS
 
-<div align="center">
-
-<a href="https://github.com/nyangzzi">
-  <img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<a href="https://while1.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-FFC8DD?style=for-the-badge&logo=tistory&logoColor=ffffff"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/nyangzzi"><img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+  <a href="https://while1.tistory.com"><img src="https://img.shields.io/badge/Tistory-FFC8DD?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
+</p>
 
 ---
 
