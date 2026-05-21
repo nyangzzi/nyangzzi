@@ -1,49 +1,196 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?section=header&type=venom&color=0:DFD5F1,100:F9AEAC&stroke=b678c4&height=160&text=LEE+ENUKYUNG&fontColor=222222&fontSize=50&desc=Android%20Application%20Engineer&descAlignY=30&fontAlignY=60&strokeWidth=1.5)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=LEE%20EUNKYUNG&fontSize=42&fontAlign=50&fontAlignY=36&animation=fadeIn&color=0:bde0fe,50:ffc8dd,100:cdb4db&fontColor=ffffff"/>
 
-##
-
-<br/>
-
-<!--<div style="display:flex; flex-direction:row;">
-
-  <a href="https://github.com/nyangzzi"><img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"></a>
-  <a href="https://dev-zzilog.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?&logo=tistory&logoColor=white"></a>
-  <a href="mailto:eklee98@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=Gmail&logoColor=white"></a>
-  
-</div>-->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FFAFCC&center=true&vCenter=true&width=760&lines=Building+Better+User+Experiences;Android+%2B+Frontend+%2B+Architecture"/>
 
 <br/>
 
-![img](https://github.com/nyangzzi/nyangzzi/assets/52737339/0091772b-f271-4fce-90c6-33ae08762b5b)
+```kotlin
+val today = yesterday + 1
 
-<br/>
+while (developing) {
+    learn()
+    improve()
+    designBetterExperience()
+}
+```
 
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/android-34A853?&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?&logo=androidstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/jetpackcompose-4285F4?&logo=jetpack-compose&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/ROLE-ANDROID_DEVELOPER-bde0fe?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-UI_%26_INTERACTION-ffc8dd?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BUILD-CLEAN_ARCHITECTURE-cdb4db?style=for-the-badge&logoColor=white"/>
 
-  
-  <!--img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white"-->
 </div>
 
-<div style="display:flex; flex-direction:row;">
-  <!--<img src="https://img.shields.io/badge/csharp-512BD4?&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/dotnet-512BD4?&logo=dotnet&logoColor=white">-->
-  <img src="https://img.shields.io/badge/sqlite-003B57?&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flutter-02569B?&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?&logo=figma&logoColor=white">
+---
+
+## 💻 STATUS
+
+```yaml
+name: 이은경
+role: Android Developer
+
+focus:
+  - Android
+  - Frontend
+  - UI/UX
+  - Architecture
+  - Interaction
+
+philosophy:
+  "UI는 보기 좋아야 하고,
+   구조는 오래 버틸 수 있어야 한다"
+
+goal:
+  "사용자 경험 중심의 Android 애플리케이션을
+   안정적인 구조 위에 설계하는 개발자"
+```
+
+---
+
+## 🧩 STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,react,nextjs,ts,flutter,firebase,figma,git"/>
+
 </div>
 
-<br/>
-<br/>
+---
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyangzzi&layout=compact)-->
+## 🛠️ EQUIPMENT
+
+```txt
+[ SYSTEM LOADOUT ]
+
+🧠 Clean Architecture
+🎨 Design System
+📦 Multi Module SDK
+⚡ Performance Optimization
+📱 Jetpack Compose
+🌐 Responsive UI
+🔒 Security
+🎮 Interaction UX
+```
+
+---
+
+## 📦 PROJECTS
+
+### 🛒 Retail SDK Platform
+
+> 안정적인 오프라인 결제 환경을 위한 Android SDK 및 Framework 개발
+
+```diff
++ Android AAR SDK
++ Multi Module Architecture
++ Clean Architecture + MVI
++ Accessibility Support
+```
+
+```txt
+[ FEATURES ]
+
+📦 Payment / Auth / Push / Logging SDK
+🎨 Material Design 3 기반 공통 UI
+⚡ Config 기반 커스터마이징 구조
+🧩 Responsive Grid Layout 구현
+```
+
+---
+
+### 💳 Android POS
+
+> 레거시 결제 시스템을 Android 기반 신규 POS로 리빌딩 및 최적화
+
+```diff
++ Offline Payment System
++ Security Optimization
++ Chunked Download
++ Error Reporting Pipeline
+```
+
+```txt
+[ FEATURES ]
+
+🔒 민감 데이터 보호 로직
+📡 WorkManager 기반 재시도 구조
+⚡ Chunked Download + SHA256 검증
+🎞️ Lottie / Vector 최적화
+🧩 Coil 이미지 캐싱
+```
+
+---
+
+### 🌸 WithConimal
+
+> 공공 API 기반 유기동물 조회 및 관심 공고 관리 서비스
+
+```diff
++ Animal Adoption Service
++ Paging3 + Room + Flow
++ Compose UI
+```
+
+```txt
+[ FEATURES ]
+
+🐹 유기동물 조회 서비스
+📱 Material Design 3
+🔍 필터 UX 및 상태 관리
+🖼️ Pinch To Zoom 구현
+```
+
+---
+
+### 🌷 DayFlower
+
+> 날짜별 꽃 정보를 제공하는 Android 서비스
+
+```diff
++ Flower Recommendation Service
++ Coroutine + Flow
++ Firebase Authentication
+```
+
+```txt
+[ FEATURES ]
+
+🌸 TikXML 기반 XML Parsing
+🦴 Skeleton UI
+💫 Optimistic UI
+🔐 Naver / Kakao Login
+```
+
+---
+
+## 🌸 LINKS
+
+<div align="center">
+
+<a href="https://github.com/nyangzzi">
+  <img src="https://img.shields.io/badge/GitHub-BDE0FE?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://while1.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-FFC8DD?style=for-the-badge&logo=tistory&logoColor=ffffff"/>
+</a>
+
+</div>
+
+---
+
+<div align="left">
+
+```txt
+> SYSTEM MESSAGE :
+> Building delightful experiences ✨
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:cdb4db,50:ffc8dd,100:bde0fe"/>
 
 </div>
