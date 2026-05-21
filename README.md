@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=LEE%20EUNKYUNG&fontSize=42&fontAlign=50&fontAlignY=36&animation=fadeIn&color=0:bde0fe,50:ffc8dd,100:cdb4db&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=FFAFCC&center=true&vCenter=true&width=760&lines=Building+Better+User+Experiences;Android+%2B+Frontend+%2B+Architecture"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2500&pause=1000&color=FFAFCC&center=true&vCenter=true&width=760&lines=Building+Better+User+Experiences;Android+%2B+Frontend+%2B+Architecture"/>
 
 <br/>
 
